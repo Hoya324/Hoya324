@@ -10,12 +10,12 @@
 
 <a href="https://www.instagram.com/g___ho_/">
     <img 
-        src="http://img.shields.io/badge/-instagram-22222?style=flat&logo=Instagram&link=https://www.instagram.com/g___ho/"
+        src="http://img.shields.io/badge/-instagram-22222a?style=flat&logo=Instagram&link=https://www.instagram.com/g___ho/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
 <a href="https://velog.io/@groomit324">
     <img 
-        src="http://img.shields.io/badge/-velog-22222?style=flat&logo=velog&link=https://velog.io/@groomit324"
+        src="http://img.shields.io/badge/-velog-22222a?style=flat&logo=velog&link=https://velog.io/@groomit324"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
