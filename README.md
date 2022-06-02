@@ -8,9 +8,9 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-<a href="https://velog.io/@groomit324">
+<a href="https://velog.io/@icebear324">
     <img 
-        src="http://img.shields.io/badge/-velog-22222a?style=flat&logo=velog&link=https://velog.io/@groomit324"
+        src="http://img.shields.io/badge/-velog-22222a?style=flat&logo=velog&link=https://velog.io/@icebear324"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
