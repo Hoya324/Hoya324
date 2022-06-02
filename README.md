@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Gyeong%20Ho&fontSize=90)
 
-<img src="https://img.shields.io/badge/Java-informational?style=flat-square&logo=java&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Java-blue?style=flat-square&logo=java&logoColor=white"/></a>
 <!--
 **groomit324/groomit324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
