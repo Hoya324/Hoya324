@@ -20,7 +20,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-<h3 align="center">📌 my Techs </h3>
+<h3 align="center">📌 my Techs 📌</h3>
 
 <p align="center"> Techs that I've used at least once </p>
 
