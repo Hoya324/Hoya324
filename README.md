@@ -25,4 +25,4 @@
 </p>
 
 
-<p align="center">[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gangho324)](https://solved.ac/gangho324)</p>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gangho324)](https://solved.ac/gangho324)
