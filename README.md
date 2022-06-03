@@ -2,23 +2,26 @@
 
 👋 Hi! I'm a college student studying to become a backend/data analysis developer.🫐
 
-<a href="https://www.instagram.com/g___ho_/">
-    <img 
-        src="http://img.shields.io/badge/-instagram-22222a?style=flat&logo=Instagram&link=https://www.instagram.com/g___ho/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+<h3 align="center"> 🌱 it's me 🌱 </h3>
+<p align="center"> 
+    <a href="https://www.instagram.com/g___ho_/">
+        <img 
+            src="http://img.shields.io/badge/-instagram-22222a?style=flat&logo=Instagram&link=https://www.instagram.com/g___ho/"
+            style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    </a>
 
-<a href="https://velog.io/@icebear324">
-    <img 
-        src="http://img.shields.io/badge/-velog-22222a?style=flat&logo=velog&link=https://velog.io/@icebear324"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+    <a href="https://velog.io/@icebear324">
+        <img 
+            src="http://img.shields.io/badge/-velog-22222a?style=flat&logo=velog&link=https://velog.io/@icebear324"
+            style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    </a>
 
-<a href="https://groomit324.notion.site">
-    <img 
-        src="http://img.shields.io/badge/-Notion-22222a?style=flat&logo=Notion&link=https://groomit324.notion.site"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+    <a href="https://groomit324.notion.site">
+        <img 
+            src="http://img.shields.io/badge/-Notion-22222a?style=flat&logo=Notion&link=https://groomit324.notion.site"
+            style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    </a>
+</p>
 
 <h3 align="center">📌 my Techs 📌</h3>
 
@@ -34,5 +37,6 @@
  </p>
 
 
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gangho324)](https://solved.ac/gangho324)
+<p align="center">
+    [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gangho324)](https://solved.ac/gangho324)
+</p>
