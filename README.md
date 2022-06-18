@@ -22,11 +22,14 @@
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
 </p>
 
-<div align="center" style="text-align:center">
 
-    [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=icebear324)](https://github.com/@icebear324/velog-readme-stats) 
+<div align="center"style="text-align:center">
+
+   <a href="https://github.com/@icebear324/velog-readme-stats"><img src="https://velog-readme-stats.vercel.app/api?name=icebear324" alt="Velog&#39;s GitHub stats"></a>
+
     
 </div>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=groomit324&show_icons=true&theme=radical)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gangho324)](https://solved.ac/gangho324) 
