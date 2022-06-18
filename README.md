@@ -22,7 +22,16 @@
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
 </p>
 
+<div align="center" style="text-align:center">
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gangho324)](https://solved.ac/gangho324)
+    [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=icebear324)](https://github.com/@icebear324/velog-readme-stats) 
+    
+</div>
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgroomit324%2Fhit-counter&count_bg=%23525898&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=groomit324&show_icons=true&theme=radical)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gangho324)](https://solved.ac/gangho324) 
+    
+
+<p align="center">    
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgroomit324%2Fhit-counter&count_bg=%23525898&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
