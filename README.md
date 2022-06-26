@@ -6,7 +6,7 @@
 <p align="center"> 
     <a href="https://www.instagram.com/g___ho_/"> <img src="http://img.shields.io/badge/-instagram-22222a?style=flat&logo=Instagram&link=https://www.instagram.com/g___ho/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp
     <a href="https://velog.io/@icebear324"><img src="http://img.shields.io/badge/-velog-22222a?style=flat&logo=velog&link=https://velog.io/@icebear324" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp
-    <a href="https://groomit324.notion.site"><img src="http://img.shields.io/badge/-Notion-22222a?style=flat&logo=Notion&link=https://groomit324.notion.site" style="height : auto; margin-left : 10px; margin-right : 10px;"/</a>&nbsp
+    <!-- <a href="https://groomit324.notion.site"><img src="http://img.shields.io/badge/-Notion-22222a?style=flat&logo=Notion&link=https://groomit324.notion.site" style="height : auto; margin-left : 10px; margin-right : 10px;"/</a>&nbsp -->
 </p>
 
 <h2 align="center">📌 Skills 📌</h2>
