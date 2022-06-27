@@ -24,7 +24,7 @@
 
 <h2 align="center"> ✏️ My Blog ✏️ </h2>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=icebear324&tag=daily)](https://velog.io/@icebear324)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=icebear324&tag=꿀팁)](https://velog.io/@icebear324)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=icebear324)](https://velog.io/@icebear324)
 
 
