@@ -2,6 +2,7 @@
 
 👋 Hi! I'm a college student studying to become a backend/data analysis developer.🫐
 
+
 <h2 align="center"> 🌱 it's me 🌱 </h2>
 <p align="center"> 
     <a href="https://www.instagram.com/g___ho_/"> <img src="http://img.shields.io/badge/-instagram-22222a?style=flat&logo=Instagram&link=https://www.instagram.com/g___ho/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp
