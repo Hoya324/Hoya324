@@ -10,6 +10,7 @@
     <!-- <a href="https://groomit324.notion.site"><img src="http://img.shields.io/badge/-Notion-22222a?style=flat&logo=Notion&link=https://groomit324.notion.site" style="height : auto; margin-left : 10px; margin-right : 10px;"/</a>&nbsp -->
 </p>
 
+
 <h2 align="center">📌 Skills 📌</h2>
 
 <p align="center"> Skills that I've used at least once </p>
