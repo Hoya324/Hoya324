@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Gyeong%20Ho&fontSize=90)
 
-👋 Hi! I'm a college student studying to become a backend/data analysis developer.🫐
+👋 Hi! I'm a college student studying to become a developer.🫐
 
 
 <h2 align="center"> 🌱 it's me 🌱 </h2>
