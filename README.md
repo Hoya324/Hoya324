@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Gyeong%20Ho&fontSize=90)
-
+<p align="center"> 
 👋 Hi! I'm a college student studying to become a developer.🫐
-
+</p>
 
 <h2 align="center"> 🌱 it's me 🌱 </h2>
 <p align="center"> 
@@ -25,12 +25,14 @@
 </p>
 
 
+
+
+<!-- 
 <h2 align="center"> ✏️ My Blog ✏️ </h2>
-
-
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=icebear324&tag=꿀팁)](https://velog.io/@icebear324)
-
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=icebear324)](https://velog-readme-stats.vercel.app/api/redirect?name=icebear324&tag=github)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=icebear324)](https://github.com/icebear324/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=icebear324)](https://github.com/icebear324/velog-readme-stats) -->
 
 
 
