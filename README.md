@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hoya324%20&fontSize=90)
 <p align="center"> 
-👋 Hi! I'm a college student studying to become a developer.🫐
+👋 Hello! I am studying to become a backend-developer!🫐
 </p>
 
 <h2 align="center"> 🌱 it's me 🌱 </h2>
