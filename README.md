@@ -5,7 +5,7 @@
 
 <h2 align="center"> 🌱 it's me 🌱 </h2>
 <p align="center"> 
-    <a href="https://www.instagram.com/h0rood/"> <img src="http://img.shields.io/badge/-instagram-22222a?style=flat&logo=Instagram&link=https://www.instagram.com/_guuardna/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp
+    <a href="https://www.instagram.com/_guuardna/"> <img src="http://img.shields.io/badge/-instagram-22222a?style=flat&logo=Instagram&link=https://www.instagram.com/_guuardna/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp
     <a href="https://velog.io/@icebear324"><img src="http://img.shields.io/badge/-velog-22222a?style=flat&logo=velog&link=https://velog.io/@icebear324" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp
     <!-- <a href="https://groomit324.notion.site"><img src="http://img.shields.io/badge/-Notion-22222a?style=flat&logo=Notion&link=https://groomit324.notion.site" style="height : auto; margin-left : 10px; margin-right : 10px;"/</a>&nbsp -->
 </p>
