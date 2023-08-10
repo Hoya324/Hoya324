@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hoya324%20&fontSize=90)
 <p align="center"> 
-👋 Hello! I am studying to become a backend-developer!🫐
+안녕하세요 Hi! 🙋‍♂️
 </p>
 
-<h2 align="center"> 🌱 it's me 🌱 </h2>
+<h2 align="center"> 🌱 </h2>
 <p align="center"> 
     <a href="https://www.instagram.com/_guuardna/"> <img src="http://img.shields.io/badge/-instagram-22222a?style=flat&logo=Instagram&link=https://www.instagram.com/_guuardna/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp
     <a href="https://velog.io/@icebear324"><img src="http://img.shields.io/badge/-velog-22222a?style=flat&logo=velog&link=https://velog.io/@icebear324" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp
@@ -11,6 +11,7 @@
 </p>
 
 
+<!--
 <h2 align="center">📌 Skills 📌</h2>
 
 <p align="center"> Skills that I've used at least once </p>
@@ -35,7 +36,8 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=icebear324)](https://github.com/icebear324/velog-readme-stats) -->
 
 
-
+<!--
 <p align="center">    
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgroomit324%2Fhit-counter&count_bg=%23525898&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
+-->
