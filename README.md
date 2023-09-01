@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hoya324%20&fontSize=90)
 <p align="center"> 
 안녕하세요 Hi! 🙋‍♂️
 </p>
@@ -6,7 +5,7 @@
 <h2 align="center"> 🌱 </h2>
 <p align="center"> 
     <a href="https://www.instagram.com/_guuardna/"> <img src="http://img.shields.io/badge/-instagram-22222a?style=flat&logo=Instagram&link=https://www.instagram.com/_guuardna/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp
-    <a href="https://velog.io/@icebear324"><img src="http://img.shields.io/badge/-velog-22222a?style=flat&logo=velog&link=https://velog.io/@icebear324" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp
+    <a href="https://hoya324.tistory.com/"><img src="http://img.shields.io/badge/-Tistory-000000?style=flat&logo=Tistory&link=https://hoya324.tistory.com/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp
     <!-- <a href="https://groomit324.notion.site"><img src="http://img.shields.io/badge/-Notion-22222a?style=flat&logo=Notion&link=https://groomit324.notion.site" style="height : auto; margin-left : 10px; margin-right : 10px;"/</a>&nbsp -->
 </p>
 
