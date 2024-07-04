@@ -1,9 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hoya324%20&fontSize=90)
-<p align="center"> 
 안녕하세요 Hi! 🙋‍♂️
 </p>
 
-<h2 align="center"> 🌱 자라나는 중.. 🌱 </h2>
+<h3 align="center"> 🌱 자라나는 중.. 🌱 </h3>
 
 ### 👨🏻‍🌾 About Me
 
