@@ -14,46 +14,46 @@
 
 ### 📚 Blog
 <table><tbody><tr>
-<td>
+<td width=200px">
     <a href="https://hoya324.tistory.com/40">
-        <img width="100%" src="/img/40.png"/><br/>
+        <img width="180px" display="block" margin-left="auto" margin-right="auto" text-align="center" src="/img/40.png"/><br/>
         <div>프로젝트 | redis 적용 및 최적화 도전기 </div>
     </a>
     <div>24.06.19</div>
 </td>
-<td>
+<td width=200px">
     <a href="https://hoya324.tistory.com/39">
-        <img width="100%" src="/img/39.png"/><br/>
+        <img width="180px" display="block" margin-left="auto" margin-right="auto" text-align="center" src="/img/39.png"/><br/>
         <div>프로젝트 | Artillery 부하 테스트 </div>
     </a>
     <div>24.05.25</div>
 </td>
-<td>
+<td width=200px">
     <a href="https://hoya324.tistory.com/37">
-        <img width="100%" src="/img/37.png"/><br/>
+        <img width="180px" display="block" margin-left="auto" margin-right="auto" text-align="center" src="/img/37.png"/><br/>
         <div>NestJS 왜 쓰는걸까? (우아콘 새로운 백엔드 개발 표준 정리) </div>
     </a>
     <div>23.12.26</div>
 </td>
 </tr>
 <tr>
-<td>
+<td width=200px">
     <a href="https://hoya324.tistory.com/35">
-        <img width="100%" src="/img/35.png"/><br/>
+        <img width="180px" display="block" margin-left="auto" margin-right="auto" text-align="center" src="/img/35.png"/><br/>
         <div>프로젝트 회고 | 나의 첫 프로젝트는.. </div>
     </a>
     <div>24.11.29</div>
 </td>
-<td>
+<td width=200px">
     <a href="https://hoya324.tistory.com/34">
-        <img width="100%" src="/img/34.png"/><br/>
+        <img width="180px" display="block" margin-left="auto" margin-right="auto" text-align="center" src="/img/34.png"/><br/>
         <div>네트워크 | TCP의 연결, 연결 해제 과정에 대해서 설명해주세요. </div>
     </a>
     <div>23.11.14</div>
 </td>
-<td>
-    <a href="https://yeonyeon.tistory.com/33">
-        <img width="100%" src="/img/33.png"/><br/>
+<td width=200px">
+    <a href="https://hoya324.tistory.com/33">
+        <img width="180px" display="block" margin-left="auto" margin-right="auto" text-align="center" src="/img/33.png"/><br/>
         <div>[Spring Security | 동작 원리와 Spring Security 구조를 파악해보자! </div>
     </a>
     <div>23.10.01</div>
