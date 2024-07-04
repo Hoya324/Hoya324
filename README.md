@@ -2,7 +2,7 @@
 
 <h3 align="center"> 🌱 자라나는 중.. 🌱 </h3>
 <p align="center"> 
-    <a href="https://www.instagram.com/_guuardna/"> <img src="http://img.shields.io/badge/-instagram-22222a?style=flat&logo=Instagram&link=https://www.instagram.com/guuardna_/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp
+    <a href="https://www.instagram.com/guuardna_/"> <img src="http://img.shields.io/badge/-instagram-22222a?style=flat&logo=Instagram&link=https://www.instagram.com/guuardna_/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp
     <a href="https://hoya324.tistory.com/"><img src="http://img.shields.io/badge/-Tistory-000000?style=flat&logo=Tistory&link=https://hoya324.tistory.com/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp
 </p>
 
