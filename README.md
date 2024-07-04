@@ -1,7 +1,8 @@
-안녕하세요 Hi! 🙋‍♂️
-</p>
+<hr>
 
 <h3 align="center"> 🌱 자라나는 중.. 🌱 </h3>
+
+<hr>
 
 ### 👨🏻‍🌾 About Me
 
