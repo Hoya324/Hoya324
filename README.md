@@ -16,6 +16,13 @@
 ### 📚 Blog
 <table><tbody><tr>
 <td width=200px">
+<a href="https://hoya324.tistory.com/55">
+    <img width="180px" display="block" margin-left="auto" margin-right="auto" text-align="center" src="/img/55.png"/><br/>
+    <div>Effective Java 3/E - joshua bloch 정리글 작성중(가장 최신 글 업로드) </div>
+</a>
+<div>24.07.04</div>
+</td>
+<td width=200px">
     <a href="https://hoya324.tistory.com/40">
         <img width="180px" display="block" margin-left="auto" margin-right="auto" text-align="center" src="/img/40.png"/><br/>
         <div>프로젝트 | redis 적용 및 최적화 도전기 </div>
@@ -29,15 +36,15 @@
     </a>
     <div>24.05.25</div>
 </td>
-<td width=200px">
-    <a href="https://hoya324.tistory.com/37">
-        <img width="180px" display="block" margin-left="auto" margin-right="auto" text-align="center" src="/img/37.png"/><br/>
-        <div>NestJS 왜 쓰는걸까? (우아콘 새로운 백엔드 개발 표준 정리) </div>
-    </a>
-    <div>23.12.26</div>
-</td>
 </tr>
 <tr>
+<td width=200px">
+<a href="https://hoya324.tistory.com/37">
+    <img width="180px" display="block" margin-left="auto" margin-right="auto" text-align="center" src="/img/37.png"/><br/>
+    <div>NestJS 왜 쓰는걸까? (우아콘 새로운 백엔드 개발 표준 정리) </div>
+</a>
+<div>23.12.26</div>
+</td>
 <td width=200px">
     <a href="https://hoya324.tistory.com/35">
         <img width="180px" display="block" margin-left="auto" margin-right="auto" text-align="center" src="/img/35.png"/><br/>
@@ -51,13 +58,6 @@
         <div>네트워크 | TCP의 연결, 연결 해제 과정에 대해서 설명해주세요. </div>
     </a>
     <div>23.11.14</div>
-</td>
-<td width=200px">
-    <a href="https://hoya324.tistory.com/33">
-        <img width="180px" display="block" margin-left="auto" margin-right="auto" text-align="center" src="/img/33.png"/><br/>
-        <div>[Spring Security | 동작 원리와 Spring Security 구조를 파악해보자! </div>
-    </a>
-    <div>23.10.01</div>
 </td>
 </tr>
 </tbody></table>
