@@ -3,42 +3,68 @@
 안녕하세요 Hi! 🙋‍♂️
 </p>
 
-<h2 align="center"> 🌱 </h2>
+<h2 align="center"> 🌱 자라나는 중.. 🌱 </h2>
+
+### 👨🏻‍🌾 About Me
+
+- 안녕하세요! 백엔드 개발자 나경호 입니다.
+- [블로그-Hoya의 기억창고](https://hoya324.tistory.com/), [깃허브](https://github.com/Hoya324) 등을 활용해 **꾸준함을 증명**하는 것을 지향합니다.
+- **모르는 것이 있다는 것에 부끄러워하지 않고**, 적극적으로 의견을 드러내는 것을 선호합니다.
+- 시간이 흐르는 이상 모든 것은 변한다는 생각을 가지고 있고, 이런 변화에 누구나 유지보수할 수 있는 코드가 좋은 코드라고 생각합니다.
+
+<br/>
+
+### 📚 Blog
+<table><tbody><tr>
+<td>
+    <a href="https://hoya324.tistory.com/40">
+        <img width="100%" src="/img/40.png"/><br/>
+        <div>프로젝트 | redis 적용 및 최적화 도전기 </div>
+    </a>
+    <div>24.06.19</div>
+</td>
+<td>
+    <a href="https://hoya324.tistory.com/39">
+        <img width="100%" src="/img/39.png"/><br/>
+        <div>프로젝트 | Artillery 부하 테스트 </div>
+    </a>
+    <div>24.05.25</div>
+</td>
+<td>
+    <a href="https://hoya324.tistory.com/37">
+        <img width="100%" src="/img/37.png"/><br/>
+        <div>NestJS 왜 쓰는걸까? (우아콘 새로운 백엔드 개발 표준 정리) </div>
+    </a>
+    <div>23.12.26</div>
+</td>
+</tr>
+<tr>
+<td>
+    <a href="https://hoya324.tistory.com/35">
+        <img width="100%" src="/img/35.png"/><br/>
+        <div>프로젝트 회고 | 나의 첫 프로젝트는.. </div>
+    </a>
+    <div>24.11.29</div>
+</td>
+<td>
+    <a href="https://hoya324.tistory.com/34">
+        <img width="100%" src="/img/34.png"/><br/>
+        <div>네트워크 | TCP의 연결, 연결 해제 과정에 대해서 설명해주세요. </div>
+    </a>
+    <div>23.11.14</div>
+</td>
+<td>
+    <a href="https://yeonyeon.tistory.com/33">
+        <img width="100%" src="/img/33.png"/><br/>
+        <div>[Spring Security | 동작 원리와 Spring Security 구조를 파악해보자! </div>
+    </a>
+    <div>23.10.01</div>
+</td>
+</tr>
+</tbody></table>
+
 <p align="center"> 
-    <a href="https://www.instagram.com/_guuardna/"> <img src="http://img.shields.io/badge/-instagram-22222a?style=flat&logo=Instagram&link=https://www.instagram.com/_guuardna/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp
+    <a href="https://www.instagram.com/_guuardna/"> <img src="http://img.shields.io/badge/-instagram-22222a?style=flat&logo=Instagram&link=https://www.instagram.com/guuardna_/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp
     <a href="https://hoya324.tistory.com/"><img src="http://img.shields.io/badge/-Tistory-000000?style=flat&logo=Tistory&link=https://hoya324.tistory.com/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp
-    <!-- <a href="https://groomit324.notion.site"><img src="http://img.shields.io/badge/-Notion-22222a?style=flat&logo=Notion&link=https://groomit324.notion.site" style="height : auto; margin-left : 10px; margin-right : 10px;"/</a>&nbsp -->
 </p>
-
-
-<!--
-<h2 align="center">📌 Skills 📌</h2>
-
-<p align="center"> Skills that I've used at least once </p>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a><br>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<!--     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp -->
-</p>
-
-
-
-
-<!-- 
-<h2 align="center"> ✏️ My Blog ✏️ </h2>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=icebear324&tag=꿀팁)](https://velog.io/@icebear324)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=icebear324)](https://velog-readme-stats.vercel.app/api/redirect?name=icebear324&tag=github)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=icebear324)](https://github.com/icebear324/velog-readme-stats)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=icebear324)](https://github.com/icebear324/velog-readme-stats) -->
-
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoya324&include_all_commits=true&show_icons=true&theme=tokyonight)  
-<p align="center">    
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgroomit324%2Fhit-counter&count_bg=%23525898&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</p>
--->
 
