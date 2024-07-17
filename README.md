@@ -20,6 +20,13 @@
 ### 📚 Blog
 <table><tbody><tr>
 <td width=200px">
+<a href="https://hoya324.tistory.com/58">
+    <img width="180px" display="block" margin-left="auto" margin-right="auto" text-align="center" src="/img/58.png"/><br/>
+    <div>Java & Spring | Swagger 커스텀 ApiResponse 어노테이션 사용기 </div>
+</a>
+<div>24.07.17</div>
+</td>
+<td width=200px">
 <a href="https://hoya324.tistory.com/57">
     <img width="180px" display="block" margin-left="auto" margin-right="auto" text-align="center" src="/img/56.png"/><br/>
     <div>프로젝트 | 텍스트 유사도 검색 어떻게 구현할까?(2) - Cosine Similarity과 TF-IDF </div>
@@ -32,6 +39,8 @@
     <div>프로젝트 | 텍스트 유사도 검색 어떻게 구현할까?(1) - Elasticsearch를 안 쓴 이유와 MySQL Full Text Index </div>
 </a>
 <div>24.07.07</div>
+</tr>
+<tr>
 </td>
 <td width=200px">
 <a href="https://hoya324.tistory.com/55">
@@ -40,8 +49,6 @@
 </a>
 <div>24.07.04</div>
 </td>
-</tr>
-<tr>
 <td width=200px">
     <a href="https://hoya324.tistory.com/40">
         <img width="180px" display="block" margin-left="auto" margin-right="auto" text-align="center" src="/img/40.png"/><br/>
@@ -55,13 +62,6 @@
         <div>프로젝트 | Artillery 부하 테스트 </div>
     </a>
     <div>24.05.25</div>
-</td>
-<td width=200px">
-<a href="https://hoya324.tistory.com/37">
-    <img width="180px" display="block" margin-left="auto" margin-right="auto" text-align="center" src="/img/37.png"/><br/>
-    <div>NestJS 왜 쓰는걸까? (우아콘 새로운 백엔드 개발 표준 정리) </div>
-</a>
-<div>23.12.26</div>
 </td>
 </tr>
 </tbody></table>
