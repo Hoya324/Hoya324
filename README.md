@@ -43,7 +43,7 @@
 <tr>
 </td>
 <td width=200px">
-<a href="https://hoya324.tistory.com/55">
+<a href="https://hoya324.tistory.com/59">
     <img width="180px" display="block" margin-left="auto" margin-right="auto" text-align="center" src="/img/55.png"/><br/>
     <div>Effective Java 3/E - joshua bloch 정리글 작성중(가장 최신 글 업로드) </div>
 </a>
