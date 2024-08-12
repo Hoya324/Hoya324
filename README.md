@@ -20,6 +20,13 @@
 ### 📚 Blog
 <table><tbody><tr>
 <td width=200px">
+<a href="https://hoya324.tistory.com/60">
+    <img width="180px" display="block" margin-left="auto" margin-right="auto" text-align="center" src="/img/60.png"/><br/>
+    <div>Spring, BE | Apache Tomcat 바로 알기 + 웹서버(Nginx와 Apache 비교)를 두는 이유</div>
+</a>
+<div>24.08.13</div>
+</td>
+<td width=200px">
 <a href="https://hoya324.tistory.com/58">
     <img width="180px" display="block" margin-left="auto" margin-right="auto" text-align="center" src="/img/58.png"/><br/>
     <div>Java & Spring | Swagger 커스텀 ApiResponse 어노테이션 사용기 </div>
@@ -33,15 +40,14 @@
 </a>
 <div>24.07.07</div>
 </td>
-<td width=200px">
-<a href="https://hoya324.tistory.com/56">
-    <img width="180px" display="block" margin-left="auto" margin-right="auto" text-align="center" src="/img/56.png"/><br/>
-    <div>프로젝트 | 텍스트 유사도 검색 어떻게 구현할까?(1) - Elasticsearch를 안 쓴 이유와 MySQL Full Text Index </div>
-</a>
-<div>24.07.07</div>
 </tr>
 <tr>
-</td>
+<td width=200px">
+<a href="https://hoya324.tistory.com/56">
+<img width="180px" display="block" margin-left="auto" margin-right="auto" text-align="center" src="/img/56.png"/><br/>
+<div>프로젝트 | 텍스트 유사도 검색 어떻게 구현할까?(1) - Elasticsearch를 안 쓴 이유와 MySQL Full Text Index </div>
+</a>
+<div>24.07.07</div>
 <td width=200px">
 <a href="https://hoya324.tistory.com/59">
     <img width="180px" display="block" margin-left="auto" margin-right="auto" text-align="center" src="/img/55.png"/><br/>
@@ -55,13 +61,6 @@
         <div>프로젝트 | redis 적용 및 최적화 도전기 </div>
     </a>
     <div>24.06.19</div>
-</td>
-<td width=200px">
-    <a href="https://hoya324.tistory.com/39">
-        <img width="180px" display="block" margin-left="auto" margin-right="auto" text-align="center" src="/img/39.png"/><br/>
-        <div>프로젝트 | Artillery 부하 테스트 </div>
-    </a>
-    <div>24.05.25</div>
 </td>
 </tr>
 </tbody></table>
