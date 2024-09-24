@@ -18,7 +18,7 @@
 <br/>
 
 ### 📚 Blog 
-#### total post: 47
+#### total post: 49
 <table><tbody><tr>
 <td width=200px">
 <a href="https://hoya324.tistory.com/62">
