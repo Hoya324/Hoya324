@@ -47,14 +47,14 @@
 <td width=200px">
 <a href="https://hoya324.tistory.com/57">
 <img width="180px" display="block" margin-left="auto" margin-right="auto" text-align="center" src="/img/56.png"/><br/>
-<div>프로젝트 | 텍스트 유사도 검색 어떻게 구현할까?(2) - Cosine Similarity과 TF-IDF </div>
+<div>프로젝트 & BDP | Java(Spring)에서 TF-IDF와 Cosine Similarity를 활용한 문장간 유사도 측정 방법</div>
 </a>
 <div>24.07.07</div>
 </td>
 <td width=200px">
 <a href="https://hoya324.tistory.com/56">
 <img width="180px" display="block" margin-left="auto" margin-right="auto" text-align="center" src="/img/56.png"/><br/>
-<div>프로젝트 | 텍스트 유사도 검색 어떻게 구현할까?(1) - Elasticsearch를 안 쓴 이유와 MySQL Full Text Index </div>
+<div>프로젝트 & DB |  MySQL의 Full Text Index와 TF-IDF, Cosine Similarity로 DB 내 유사한 Text 추출하기(without Elasticsearch)</div>
 </a>
 <div>24.07.07</div>
 <td width=200px">
