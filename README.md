@@ -38,7 +38,7 @@
 <td width=200px">
 <a href="https://hoya324.tistory.com/58">
     <img width="180px" display="block" margin-left="auto" margin-right="auto" text-align="center" src="/img/58.png"/><br/>
-    <div>Java & Spring | Swagger 커스텀 ApiResponse 어노테이션 사용기 </div>
+    <div>Java & Spring | Swagger 커스텀 ApiResponse 어노테이션 사용기(+ Reflection을 통한 문제 해결) </div>
 </a>
 <div>24.07.17</div>
 </tr>
