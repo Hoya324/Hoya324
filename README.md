@@ -19,8 +19,15 @@
 
 ### 📚 Blog 
 #### total post: 54 
-#### Latest update date: 2024.10.06
+#### Latest update date: 2024.10.31
 <table><tbody><tr>
+    <td width=200px">
+    <a href="https://hoya324.tistory.com/40">
+        <img width="180px" display="block" margin-left="auto" margin-right="auto" text-align="center" src="/img/63.png"/><br/>
+        <div>JPA saveAll() vs Bulk Insert 성능 비교: 영속성 context 관리와 트랜잭션 관리 관점에서 </div>
+    </a>
+    <div>24.10.31</div>
+</td>
 <td width=200px">
 <a href="https://hoya324.tistory.com/62">
 <img width="180px" display="block" margin-left="auto" margin-right="auto" text-align="center" src="/img/62.png"/><br/>
@@ -35,14 +42,14 @@
 </a>
 <div>24.08.13</div>
 </td>
-<td width=200px">
+</tr>
+<tr>
+    <td width=200px">
 <a href="https://hoya324.tistory.com/58">
     <img width="180px" display="block" margin-left="auto" margin-right="auto" text-align="center" src="/img/58.png"/><br/>
     <div>Java & Spring | Swagger 커스텀 ApiResponse 어노테이션 사용기(+ Reflection을 통한 문제 해결) </div>
 </a>
 <div>24.07.17</div>
-</tr>
-<tr>
 </td>
 <td width=200px">
 <a href="https://hoya324.tistory.com/57">
@@ -57,12 +64,5 @@
 <div>프로젝트 & DB |  MySQL의 Full Text Index와 TF-IDF, Cosine Similarity로 DB 내 유사한 Text 추출하기(without Elasticsearch)</div>
 </a>
 <div>24.07.07</div>
-<td width=200px">
-    <a href="https://hoya324.tistory.com/40">
-        <img width="180px" display="block" margin-left="auto" margin-right="auto" text-align="center" src="/img/40.png"/><br/>
-        <div>프로젝트 | redis 적용 및 최적화 도전기 </div>
-    </a>
-    <div>24.06.19</div>
-</td>
 </tr>
 </tbody></table>
