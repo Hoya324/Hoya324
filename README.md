@@ -18,9 +18,16 @@
 <br/>
 
 ### 📚 Blog 
-#### total post: 54 
-#### Latest update date: 2024.10.31
+#### total post: 55
+#### Latest update date: 2024.11.24
 <table><tbody><tr>
+        <td width=200px">
+<a href="https://hoya324.tistory.com/58">
+    <img width="180px" display="block" margin-left="auto" margin-right="auto" text-align="center" src="https://i1.daumcdn.net/thumb/C230x300/?fname=https://blog.kakaocdn.net/dn/bf8W1Z/btsKTINZChS/YfnX0YPj1JZkEihlYqjsK0/img.png"/><br/>
+    <div>DB Connection 점유 줄이기: OSIV와 단계적 CQRS 그리고 트랜잭션 설계</div>
+</a>
+<div>24.11.24</div>
+</td>
     <td width=200px">
     <a href="https://hoya324.tistory.com/entry/JPA-saveAll-vs-Bulk-Insert-%EC%84%B1%EB%8A%A5-%EB%B9%84%EA%B5%90-%EC%98%81%EC%86%8D%EC%84%B1-context-%EA%B4%80%EB%A6%AC%EC%99%80-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B4%80%EB%A6%AC-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C">
         <img width="180px" display="block" margin-left="auto" margin-right="auto" text-align="center" src="/img/64.png"/><br/>
@@ -35,21 +42,15 @@
 </a>
 <div>24.09.05</div>
 </td>
+
+</tr>
+<tr>
 <td width=200px">
 <a href="https://hoya324.tistory.com/60">
     <img width="180px" display="block" margin-left="auto" margin-right="auto" text-align="center" src="/img/60.png"/><br/>
     <div>Spring, BE | Apache Tomcat 바로 알기 + 웹서버(Nginx와 Apache 비교)를 두는 이유</div>
 </a>
 <div>24.08.13</div>
-</td>
-</tr>
-<tr>
-    <td width=200px">
-<a href="https://hoya324.tistory.com/58">
-    <img width="180px" display="block" margin-left="auto" margin-right="auto" text-align="center" src="/img/58.png"/><br/>
-    <div>Java & Spring | Swagger 커스텀 ApiResponse 어노테이션 사용기(+ Reflection을 통한 문제 해결) </div>
-</a>
-<div>24.07.17</div>
 </td>
 <td width=200px">
 <a href="https://hoya324.tistory.com/57">
