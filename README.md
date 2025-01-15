@@ -21,6 +21,13 @@
 #### total post: 55
 #### Latest update date: 2024.11.24
 <table><tbody><tr>
+    <td width=200px">
+<a href="https://hoya324.tistory.com/58">
+    <img width="180px" display="block" margin-left="auto" margin-right="auto" text-align="center" src="https://i1.daumcdn.net/thumb/C230x300/?fname=https://blog.kakaocdn.net/dn/DG71s/btsLP4Vzym2/IsFttKBbmkeQSIKv7B85K1/img.png"/><br/>
+    <div>Trasaction(트랜잭션) 기본적으로 톺아보기</div>
+</a>
+<div>25.01.16</div>
+</td>
         <td width=200px">
 <a href="https://hoya324.tistory.com/58">
     <img width="180px" display="block" margin-left="auto" margin-right="auto" text-align="center" src="https://i1.daumcdn.net/thumb/C230x300/?fname=https://blog.kakaocdn.net/dn/bf8W1Z/btsKTINZChS/YfnX0YPj1JZkEihlYqjsK0/img.png"/><br/>
@@ -35,16 +42,15 @@
     </a>
     <div>24.10.31</div>
 </td>
-<td width=200px">
+</tr>
+<tr>
+    <td width=200px">
 <a href="https://hoya324.tistory.com/62">
 <img width="180px" display="block" margin-left="auto" margin-right="auto" text-align="center" src="/img/62.png"/><br/>
 <div>Spring | Spring AOP의 동작원리와 JDK Dynamic Proxy vs CGLIB Proxy 비교 및 Spring AOP와 AspectJ 비교</div>
 </a>
 <div>24.09.05</div>
 </td>
-
-</tr>
-<tr>
 <td width=200px">
 <a href="https://hoya324.tistory.com/60">
     <img width="180px" display="block" margin-left="auto" margin-right="auto" text-align="center" src="/img/60.png"/><br/>
@@ -59,11 +65,5 @@
 </a>
 <div>24.07.07</div>
 </td>
-<td width=200px">
-<a href="https://hoya324.tistory.com/56">
-<img width="180px" display="block" margin-left="auto" margin-right="auto" text-align="center" src="/img/57.png"/><br/>
-<div>프로젝트 & DB |  MySQL의 Full Text Index와 TF-IDF, Cosine Similarity로 DB 내 유사한 Text 추출하기(without Elasticsearch)</div>
-</a>
-<div>24.07.07</div>
 </tr>
 </tbody></table>
