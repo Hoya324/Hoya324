@@ -18,8 +18,8 @@
 <br/>
 
 ### 📚 Blog 
-#### total post: 55
-#### Latest update date: 2024.11.24
+#### total post: 59
+#### Latest update date: 2025.01.16
 <table><tbody><tr>
     <td width=200px">
 <a href="https://hoya324.tistory.com/58">
