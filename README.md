@@ -18,8 +18,8 @@
 <br/>
 
 ### 📚 Blog 
-#### total post: 59
-#### Latest update date: 2025.01.16
+#### total post: 60
+#### Latest update date: 2025.01.22
 <table>
   <tbody>
     <tr>
