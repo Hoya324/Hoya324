@@ -18,11 +18,25 @@
 <br/>
 
 ### 📚 Blog 
-#### total post: 60
-#### Latest update date: 2025.01.22
+#### total post: 61
+#### Latest update date: 2025.02.10
 <table>
   <tbody>
     <tr>
+      <td width="200px">
+        <a href="https://hoya324.tistory.com/entry/Transaction%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-Spring%EC%97%90%EC%84%9C-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%A7%80%EC%9B%90%EB%AA%A8%EB%8D%B8%EA%B3%BC-%EA%B4%80%EB%A6%AC-%EB%B0%A9%EC%8B%9D">
+          <img
+            width="180px"
+            style="display: block; margin: 0 auto; text-align: center;"
+            src="https://i1.daumcdn.net/thumb/C230x300/?fname=https://blog.kakaocdn.net/dn/craE1o/btsMcrq0I4S/AkGq0SZRPKHN5T3X4Cgu9k/img.png"
+          />
+          <br />
+          <div style="text-align: center;">
+            Transaction(트랜잭션) Spring에서 톺아보기 - 트랜잭션 지원모델과 관리 방식
+          </div>
+        </a>
+        <div style="text-align: center;">24.09.05</div>
+      </td>
       <td width="200px">
         <a href="https://hoya324.tistory.com/entry/DB%EC%99%80-Application-%EC%BD%94%EB%93%9C%EC%9D%98-%EC%97%AD%ED%95%A0%EA%B3%BC-%EB%B2%94%EC%9C%84%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%82%98%EB%88%8C%EA%B9%8C">
           <img
@@ -49,6 +63,8 @@
         </a>
         <div style="text-align: center;">25.01.16</div>
       </td>
+    </tr>
+    <tr>
       <td width="200px">
         <a href="https://hoya324.tistory.com/entry/DB-Connection-%EC%A0%90%EC%9C%A0-%EC%A4%84%EC%9D%B4%EA%B8%B0-OSIV%EC%99%80-%EB%8B%A8%EA%B3%84%EC%A0%81-CQRS-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%84%A4%EA%B3%84">
           <img
@@ -60,9 +76,7 @@
           <div style="text-align: center;">DB Connection 점유 줄이기: OSIV와 단계적 CQRS 그리고 트랜잭션 설계</div>
         </a>
         <div style="text-align: center;">24.11.24</div>
-      </td>
-    </tr>
-    <tr>
+      </td>        
       <td width="200px">
         <a href="https://hoya324.tistory.com/entry/JPA-saveAll-vs-Bulk-Insert-%EC%84%B1%EB%8A%A5-%EB%B9%84%EA%B5%90-%EC%98%81%EC%86%8D%EC%84%B1-context-%EA%B4%80%EB%A6%AC%EC%99%80-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B4%80%EB%A6%AC-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C">
           <img
@@ -77,20 +91,6 @@
         </a>
         <div style="text-align: center;">24.10.31</div>
       </td>        
-      <td width="200px">
-        <a href="https://hoya324.tistory.com/62">
-          <img
-            width="180px"
-            style="display: block; margin: 0 auto; text-align: center;"
-            src="/img/62.png"
-          />
-          <br />
-          <div style="text-align: center;">
-            Spring | Spring AOP의 동작원리와 JDK Dynamic Proxy vs CGLIB Proxy 비교 및 Spring AOP와 AspectJ 비교
-          </div>
-        </a>
-        <div style="text-align: center;">24.09.05</div>
-      </td>
       <td width="200px">
         <a href="https://hoya324.tistory.com/60">
           <img
