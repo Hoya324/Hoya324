@@ -35,7 +35,7 @@
             Transaction(트랜잭션) Spring에서 톺아보기 - 트랜잭션 지원모델과 관리 방식
           </div>
         </a>
-        <div style="text-align: center;">24.09.05</div>
+        <div style="text-align: center;">25.01.10</div>
       </td>
       <td width="200px">
         <a href="https://hoya324.tistory.com/entry/DB%EC%99%80-Application-%EC%BD%94%EB%93%9C%EC%9D%98-%EC%97%AD%ED%95%A0%EA%B3%BC-%EB%B2%94%EC%9C%84%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%82%98%EB%88%8C%EA%B9%8C">
