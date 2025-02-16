@@ -18,11 +18,39 @@
 <br/>
 
 ### 📚 Blog 
-#### total post: 61
-#### Latest update date: 2025.02.10
+#### total post: 62
+#### Latest update date: 2025.02.17
 <table>
   <tbody>
     <tr>
+      <td width="200px">
+        <a href="https://hoya324.tistory.com/entry/%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%BD%94%EB%93%9C%EC%99%80-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9D%98-%EB%B2%94%EC%9C%84%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EB%AF%BC">
+          <img
+            width="180px"
+            style="display: block; margin: 0 auto; text-align: center;"
+            src="https://i1.daumcdn.net/thumb/C230x300/?fname=https://blog.kakaocdn.net/dn/Z5ilb/btsMlNsbFMa/Ca8F6u5cS6gPMVFTuuXUEK/img.png"
+          />
+          <br />
+          <div style="text-align: center;">
+            개발 고민 | 테스트 가능한 코드와 테스트의 범위에 대하여
+          </div>
+        </a>
+        <div style="text-align: center;">25.02.17</div>
+      </td>
+      <td width="200px">
+        <a href="https://hoya324.tistory.com/entry/%EA%B0%9C%EB%B0%9C-%EA%B3%A0%EB%AF%BC-JPA-Entity%EC%99%80-Domain-%EB%AA%A8%EB%8D%B8%EC%9D%80-11%EC%9D%B4%EC%96%B4%EC%95%BC%ED%95%98%EB%8A%94%EA%B1%B8%EA%B9%8C">
+          <img
+            width="180px"
+            style="display: block; margin: 0 auto; text-align: center;"
+            src="https://i1.daumcdn.net/thumb/C230x300/?fname=https://blog.kakaocdn.net/dn/9b7Lw/btsMej0GNfu/K7B2s2k9af3oXV1u1XQ4eK/img.png"
+          />
+          <br />
+          <div style="text-align: center;">
+            개발 고민 | JPA Entity와 Domain 모델은 1:1이어야하는걸까?
+          </div>
+        </a>
+        <div style="text-align: center;">25.02.12</div>
+      </td>       
       <td width="200px">
         <a href="https://hoya324.tistory.com/entry/Transaction%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-Spring%EC%97%90%EC%84%9C-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%A7%80%EC%9B%90%EB%AA%A8%EB%8D%B8%EA%B3%BC-%EA%B4%80%EB%A6%AC-%EB%B0%A9%EC%8B%9D">
           <img
@@ -37,6 +65,8 @@
         </a>
         <div style="text-align: center;">25.02.10</div>
       </td>
+    </tr>
+    <tr>
       <td width="200px">
         <a href="https://hoya324.tistory.com/entry/DB%EC%99%80-Application-%EC%BD%94%EB%93%9C%EC%9D%98-%EC%97%AD%ED%95%A0%EA%B3%BC-%EB%B2%94%EC%9C%84%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%82%98%EB%88%8C%EA%B9%8C">
           <img
@@ -63,8 +93,6 @@
         </a>
         <div style="text-align: center;">25.01.16</div>
       </td>
-    </tr>
-    <tr>
       <td width="200px">
         <a href="https://hoya324.tistory.com/entry/DB-Connection-%EC%A0%90%EC%9C%A0-%EC%A4%84%EC%9D%B4%EA%B8%B0-OSIV%EC%99%80-%EB%8B%A8%EA%B3%84%EC%A0%81-CQRS-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%84%A4%EA%B3%84">
           <img
@@ -76,35 +104,7 @@
           <div style="text-align: center;">DB Connection 점유 줄이기: OSIV와 단계적 CQRS 그리고 트랜잭션 설계</div>
         </a>
         <div style="text-align: center;">24.11.24</div>
-      </td>        
-      <td width="200px">
-        <a href="https://hoya324.tistory.com/entry/JPA-saveAll-vs-Bulk-Insert-%EC%84%B1%EB%8A%A5-%EB%B9%84%EA%B5%90-%EC%98%81%EC%86%8D%EC%84%B1-context-%EA%B4%80%EB%A6%AC%EC%99%80-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B4%80%EB%A6%AC-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C">
-          <img
-            width="180px"
-            style="display: block; margin: 0 auto; text-align: center;"
-            src="/img/64.png"
-          />
-          <br />
-          <div style="text-align: center;">
-            saveAll() vs Batch Insert(with JPA, 쓰기 지연) 성능 비교: 영속성 context 관리와 트랜잭션 관리 관점에서
-          </div>
-        </a>
-        <div style="text-align: center;">24.10.31</div>
-      </td>        
-      <td width="200px">
-        <a href="https://hoya324.tistory.com/60">
-          <img
-            width="180px"
-            style="display: block; margin: 0 auto; text-align: center;"
-            src="/img/60.png"
-          />
-          <br />
-          <div style="text-align: center;">
-            Spring, BE | Apache Tomcat 바로 알기 + 웹서버(Nginx와 Apache 비교)를 두는 이유
-          </div>
-        </a>
-        <div style="text-align: center;">24.08.13</div>
-      </td>
+      </td>         
     </tr>
   </tbody>
 </table>
