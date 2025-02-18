@@ -35,7 +35,7 @@
             개발 고민 | 테스트 가능한 코드와 테스트의 범위에 대하여
           </div>
         </a>
-        <br>
+        <br><br>
         <div style="text-align: center;">📅 25.02.17</div>
       </td>
       <td width="200px" valign="top">
@@ -46,7 +46,7 @@
             개발 고민 | JPA Entity와 Domain 모델은 1:1이어야하는걸까?
           </div>
         </a>
-        <br>
+        <br><br>
         <div style="text-align: center;">📅 25.02.12</div>
       </td>       
       <td width="200px" valign="top">
@@ -87,7 +87,7 @@
           <br />
           <div style="text-align: center;">Trasaction(트랜잭션) 기본적으로 톺아보기</div>
         </a>
-        <br>
+        <br><br>
         <div style="text-align: center;">📅 25.01.16</div>
       </td>
       <td width="200px" valign="top">
