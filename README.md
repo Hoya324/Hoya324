@@ -35,7 +35,6 @@
             개발 고민 | 테스트 가능한 코드와 테스트의 범위에 대하여
           </div>
         </a>
-        <br><br>
         <div style="text-align: center;">📅 25.02.17</div>
       </td>
       <td width="200px" valign="top">
@@ -46,7 +45,6 @@
             개발 고민 | JPA Entity와 Domain 모델은 1:1이어야하는걸까?
           </div>
         </a>
-        <br><br>
         <div style="text-align: center;">📅 25.02.12</div>
       </td>       
       <td width="200px" valign="top">
@@ -57,7 +55,6 @@
             Transaction(트랜잭션) Spring에서 톺아보기 - 트랜잭션 지원모델과 관리 방식
           </div>
         </a>
-        <br>
         <div style="text-align: center;">📅 25.02.10</div>
       </td>
     </tr>
@@ -78,7 +75,6 @@
             DB와 Application 코드의 역할과 범위를 어떻게 나눌까?
           </div>
         </a>
-        <br>
         <div style="text-align: center;">📅 25.01.22</div>
       </td>
       <td width="200px" valign="top">
@@ -87,7 +83,6 @@
           <br />
           <div style="text-align: center;">Trasaction(트랜잭션) 기본적으로 톺아보기</div>
         </a>
-        <br><br>
         <div style="text-align: center;">📅 25.01.16</div>
       </td>
       <td width="200px" valign="top">
@@ -96,7 +91,6 @@
           <br />
           <div style="text-align: center;">DB Connection 점유 줄이기: OSIV와 단계적 CQRS 그리고 트랜잭션 설계</div>
         </a>
-        <br>
         <div style="text-align: center;">📅 24.11.24</div>
       </td>         
     </tr>
