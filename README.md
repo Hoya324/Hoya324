@@ -19,7 +19,7 @@
 
 ### 📚 Blog  
 #### total post: 62  
-#### Latest update date: 2025.02.17  
+#### Latest update date: 2025.02.28  
 
 ---
 
@@ -27,6 +27,17 @@
 <table>
   <tbody>
     <tr>
+      <td width="200px" valign="top">
+        <a href="https://hoya324.tistory.com/entry/JPA-%EC%97%86%EC%9D%B4-%ED%86%B5%EA%B3%84-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-QueryDSL-Flyway%EB%A1%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%91%EA%B7%BC%ED%95%98%EA%B8%B0">
+          <img src="https://i1.daumcdn.net/thumb/C230x300/?fname=https://blog.kakaocdn.net/dn/c9tBiL/btsMzrJNz0k/baF4sblVSafgDJU4Ciuvc1/img.png" width="180px" height="220px"/>
+          <br />
+          <div style="text-align: center;">
+            JPA 없이 통계 시스템 구축하기: QueryDSL + Flyway로 데이터 접근하기
+          </div>
+        </a>
+        <br><br>
+        <div style="text-align: center;">📅 25.02.28</div>
+      </td>   
       <td width="200px" valign="top">
         <a href="https://hoya324.tistory.com/entry/%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%BD%94%EB%93%9C%EC%99%80-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9D%98-%EB%B2%94%EC%9C%84%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EB%AF%BC">
           <img src="https://i1.daumcdn.net/thumb/C230x300/?fname=https://blog.kakaocdn.net/dn/Z5ilb/btsMlNsbFMa/Ca8F6u5cS6gPMVFTuuXUEK/img.png" width="180px" height="220px"/>
@@ -38,17 +49,6 @@
         <br><br>
         <div style="text-align: center;">📅 25.02.17</div>
       </td>
-      <td width="200px" valign="top">
-        <a href="https://hoya324.tistory.com/entry/%EA%B0%9C%EB%B0%9C-%EA%B3%A0%EB%AF%BC-JPA-Entity%EC%99%80-Domain-%EB%AA%A8%EB%8D%B8%EC%9D%80-11%EC%9D%B4%EC%96%B4%EC%95%BC%ED%95%98%EB%8A%94%EA%B1%B8%EA%B9%8C">
-          <img src="https://i1.daumcdn.net/thumb/C230x300/?fname=https://blog.kakaocdn.net/dn/9b7Lw/btsMej0GNfu/K7B2s2k9af3oXV1u1XQ4eK/img.png" width="180px" height="220px"/>
-          <br />
-          <div style="text-align: center;">
-            개발 고민 | JPA Entity와 Domain 모델은 1:1이어야하는걸까?
-          </div>
-        </a>
-        <br><br>
-        <div style="text-align: center;">📅 25.02.12</div>
-      </td>       
       <td width="200px" valign="top">
         <a href="https://hoya324.tistory.com/entry/Transaction%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-Spring%EC%97%90%EC%84%9C-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%A7%80%EC%9B%90%EB%AA%A8%EB%8D%B8%EA%B3%BC-%EA%B4%80%EB%A6%AC-%EB%B0%A9%EC%8B%9D">
           <img src="https://i1.daumcdn.net/thumb/C230x300/?fname=https://blog.kakaocdn.net/dn/craE1o/btsMcrq0I4S/AkGq0SZRPKHN5T3X4Cgu9k/img.png" width="180px" height="220px"/>
