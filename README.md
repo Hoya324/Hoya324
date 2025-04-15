@@ -1,5 +1,13 @@
 <h3 align="center"> 🌱 자라나는 중.. 🌱 </h3>
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Hoya324&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Hoya324"
+  width="600"
+  height="300"
+/>
+</a>
+
 <p align="center"> 
     <a href="https://www.instagram.com/guuardna_/"> <img src="http://img.shields.io/badge/-instagram-22222a?style=flat&logo=Instagram&link=https://www.instagram.com/guuardna_/" /></a>&nbsp
     <a href="https://hoya324.tistory.com/"><img src="http://img.shields.io/badge/-Tistory-000000?style=flat&logo=Tistory&link=https://hoya324.tistory.com/" /></a>&nbsp
