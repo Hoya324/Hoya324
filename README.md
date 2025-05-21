@@ -2,8 +2,8 @@
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Hoya324&utm_content=line">
     <img
       src="https://render.gitanimals.org/lines/Hoya324?pet-id=699996772889901413"
-      width="600"
-      height="400"
+      width="200"
+      height="200"
     />
   </a>
   <h5 align="center"> 🌱 자라나는 중.. 🌱 </h3>
