@@ -10,7 +10,7 @@
 </p>
 
 <p align="center"> 
-    <a href="https://www.instagram.com/guuardna_/"> <img src="http://img.shields.io/badge/-instagram-22222a?style=flat&logo=Instagram&link=https://www.instagram.com/guuardna_/" /></a>&nbsp
+    <a href="https://www.instagram.com/_hoyapic/"> <img src="http://img.shields.io/badge/-instagram-22222a?style=flat&logo=Instagram&link=https://www.instagram.com/_hoyapic/" /></a>&nbsp
     <a href="https://hoya324.tistory.com/"><img src="http://img.shields.io/badge/-Tistory-000000?style=flat&logo=Tistory&link=https://hoya324.tistory.com/" /></a>&nbsp
 </p>
 
