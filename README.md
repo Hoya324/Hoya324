@@ -30,6 +30,8 @@
 
 ### Project history
 
+- **Oh My Harness** (2026.03 ~ )
+  - Claude Code 경량 하네스 오픈소스 / Hook 기반 자동화, 멀티 에이전트 오케스트레이션
 - **Search Tuner** (2026.03 ~ )
   - AI 기반 한국어 이커머스 검색 품질 튜닝 도구 (Kotlin, Elasticsearch)
 - **두런두런 (DorunDorun)** (2025.08 ~ 2025.12)
