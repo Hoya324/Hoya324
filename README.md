@@ -15,7 +15,7 @@
 ## 안녕하세요! 나경호 입니다.
 
 ### Work history
-- **nanum vitamin** - Backend Developer `(2025.01 ~ )`
+- **nanum vitamin** - Backend Developer `(2025.01 ~ 2026.07)`
 
 ### Organization history
 
