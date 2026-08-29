@@ -9,7 +9,7 @@
 </p>
 <p>
   <a href="https://hoya324.tistory.com/"><img src="https://img.shields.io/badge/TISTORY-000000?style=flat-square&logo=tistory&logoColor=white" /></a>
-  <a href="https://www.instagram.com/_hoyapic/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/_onhosi/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
 
 ## 안녕하세요! 나경호 입니다.
