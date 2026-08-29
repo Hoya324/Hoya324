@@ -67,8 +67,3 @@
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
 
-### Activity
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=Hoya324&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="160" />
-</p>
